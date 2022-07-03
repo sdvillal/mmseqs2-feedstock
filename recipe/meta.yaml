@@ -2,7 +2,7 @@
 #   https://github.com/bioconda/bioconda-recipes/tree/master/recipes/mmseqs2
 
 {% set commit= "b0b8e85f3b8437c10a666e3ea35c78c0ad0d7ec2" %}
-{% set version = "13-45111-post1-{{ commit }} " %}
+{% set version = "13-45111-post1-{{ commit }}" %}
 {% set sha256 = "0f2b192715a4f3011b34f179c2c6b50253537c6b82fbe75238aca66a7737860b" %}
 
 package:
