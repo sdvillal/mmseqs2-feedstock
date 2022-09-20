@@ -3,7 +3,7 @@
 
 {% set commit = "fea8d2037312f66aa20b0976cda1ebeba2ce354f" %}
 {% set version = "13-45111-post2-fea8d2037312f66aa20b0976cda1ebeba2ce354f" %}
-{% set sha256 = "b6042552914791c5be60bf0d9b588ff28c188b023c402c2b62823838852f667f" %}
+{% set sha256 = "1cb092b578e38682064fdfa5908f52da6da0a6c4cf30767235d963de52b5f919" %}
 
 package:
   name: mmseqs2
